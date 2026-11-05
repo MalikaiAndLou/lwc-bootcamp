@@ -1,3 +1,7 @@
+LWC bootcamp project.
+Org alias: scratch-01
+Deploy: sf project deploy start --source-dir force-app --target-org scratch-01
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
